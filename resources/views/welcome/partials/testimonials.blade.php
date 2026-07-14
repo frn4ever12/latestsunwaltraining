@@ -11,7 +11,9 @@
                 <!-- Testimonial 1 - Participant -->
                 <div class="carousel-item active">
                     <div class="testimonial-card">
-                        <img src="https://via.placeholder.com/80" class="avatar" alt="Participant">
+                        <div class="avatar-placeholder">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <p class="mb-3 fst-italic">
                             "यो तालिमले मेरो जीवन पूर्ण रूपमा बदलिदियो। अब म आफ्नै व्यवसाय गर्दैछु र राम्रो आम्दानी गर्दैछु। नगरपालिकाले यस्तो उत्कृष्ट तालिम व्यवस्था गरेकोमा धन्यवाद।"
                         </p>
@@ -23,7 +25,9 @@
                 <!-- Testimonial 2 - Trainer -->
                 <div class="carousel-item">
                     <div class="testimonial-card">
-                        <img src="https://via.placeholder.com/80" class="avatar" alt="Trainer">
+                        <div class="avatar-placeholder">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <p class="mb-3 fst-italic">
                             "सहभागीहरूको सिक्ने इच्छा र अनुशासन देखेर म धेरै प्रभावित भएँ। यो तालिम कार्यक्रमले स्थानीय स्तरमा सीप विकासमा ठूलो योगदान पुर्याउँदैछ।"
                         </p>
@@ -35,7 +39,9 @@
                 <!-- Testimonial 3 - Mayor -->
                 <div class="carousel-item">
                     <div class="testimonial-card">
-                        <img src="https://via.placeholder.com/80" class="avatar" alt="Mayor">
+                        <div class="avatar-placeholder">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <p class="mb-3 fst-italic">
                             "हाम्रो नगरपालिकाले नागरिक सशक्तिकरणको लागि गर्दै आएको यो तालिम कार्यक्रम सफल भइरहेको छ। हामी यस्तै गुणस्तरीय कार्यक्रमहरू निरन्तर गर्दै जानेछौं।"
                         </p>
@@ -47,7 +53,9 @@
                 <!-- Testimonial 4 - Chief Administrative Officer -->
                 <div class="carousel-item">
                     <div class="testimonial-card">
-                        <img src="https://via.placeholder.com/80" class="avatar" alt="CAO">
+                        <div class="avatar-placeholder">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <p class="mb-3 fst-italic">
                             "तालिम व्यवस्थापन प्रणालीले आवेदनदेखि प्रमाणपत्र सम्मको प्रक्रिया पूर्ण रूपमा डिजिटल बनाएको छ। यसले समय र श्रम बचाउँछ र पारदर्शिता बढाउँछ।"
                         </p>

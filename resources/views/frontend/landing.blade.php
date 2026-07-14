@@ -1239,6 +1239,28 @@
         }
 
         /* ============================================
+           AVATAR PLACEHOLDER STYLES
+           ============================================ */
+        .avatar-placeholder {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 40px;
+            margin: 0 auto;
+        }
+
+        .testimonial-card .avatar-placeholder {
+            width: 60px;
+            height: 60px;
+            font-size: 30px;
+        }
+
+        /* ============================================
            SECTION 8: SUCCESS BANNER
            ============================================ */
         .success-banner {

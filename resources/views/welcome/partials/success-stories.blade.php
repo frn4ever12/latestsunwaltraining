@@ -16,7 +16,9 @@
             <div class="col-lg-4 col-md-6">
                 <div class="success-story-card h-100">
                     <div class="text-center p-3">
-                        <img src="https://via.placeholder.com/120" class="rounded-circle mb-3" alt="Participant" style="width: 80px; height: 80px;">
+                        <div class="avatar-placeholder rounded-circle mb-3" style="width: 80px; height: 80px; margin: 0 auto;">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <h5 class="fw-bold mb-1">राम बहादुर</h5>
                         <small class="text-muted mb-2 d-block">वार्ड ५, सुनवल</small>
                         <span class="badge bg-success rounded-pill">स्व-रोजगारी</span>
@@ -36,7 +38,9 @@
             <div class="col-lg-4 col-md-6">
                 <div class="success-story-card h-100">
                     <div class="text-center p-3">
-                        <img src="https://via.placeholder.com/120" class="rounded-circle mb-3" alt="Participant" style="width: 80px; height: 80px;">
+                        <div class="avatar-placeholder rounded-circle mb-3" style="width: 80px; height: 80px; margin: 0 auto;">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <h5 class="fw-bold mb-1">सीता देवी</h5>
                         <small class="text-muted mb-2 d-block">वार्ड ८, सुनवल</small>
                         <span class="badge bg-primary rounded-pill">गार्मेन्ट फ्याक्ट्री</span>
@@ -56,7 +60,9 @@
             <div class="col-lg-4 col-md-6">
                 <div class="success-story-card h-100">
                     <div class="text-center p-3">
-                        <img src="https://via.placeholder.com/120" class="rounded-circle mb-3" alt="Participant" style="width: 80px; height: 80px;">
+                        <div class="avatar-placeholder rounded-circle mb-3" style="width: 80px; height: 80px; margin: 0 auto;">
+                            <i class="bi bi-person-circle"></i>
+                        </div>
                         <h5 class="fw-bold mb-1">हरि बहादुर</h5>
                         <small class="text-muted mb-2 d-block">वार्ड ३, सुनवल</small>
                         <span class="badge bg-success rounded-pill">स्व-रोजगारी</span>
