@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #034459;
+    --light-color: #04516b;
+    --secondary-color: #fafafa;
+    --next-color:#f36303;
+}
+.bg-main,
+.btn-main,
+.dropdown-item:focus {
+    background-color: var(--primary-color) !important;
+    color: #fff;
+}
+
+.bg-main-secondary{
+    background-color: var(--secondary-color) !important;
+    color: var(--primary-color);
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+.bg-main-head{
+    background-color: var(--next-color) !important;
+    color: var(--secondary-color);
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+.btn-upcoming{
+    background-color: var(--next-color);
+    color: #fff;
+}

@@ -1,0 +1,45 @@
+.custom-list li {
+    display: flex;
+    gap: 2px;
+    padding-bottom: 1rem;
+}
+
+.detail {
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    padding: 0 !important;
+}
+
+.detail-box {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.rotated {
+    width: 100vh;
+    height: 100%;
+    overflow: hidden;
+    margin-left:1rem; 
+    transform: rotate(-90deg);
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+@media print {
+
+    .rotated {
+        width: 100%;
+        height: 80vh;
+        margin-left: 3rem;
+    }
+}
