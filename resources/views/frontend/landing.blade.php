@@ -1982,7 +1982,7 @@
                         <div class="floating-shape shape-3"></div>
                         @if($banners && $banners->count() > 0)
                             @foreach($banners as $banner)
-                                <img src="{{ asset('dist/img/banner/' . $banner->image) }}" 
+                                <img src="{{ asset('storage/' . $banner->image) }}" 
                                      alt="{{ $banner->title }}" 
                                      class="hero-banner-img">
                             @endforeach
