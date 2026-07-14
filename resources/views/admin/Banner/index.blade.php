@@ -46,9 +46,9 @@
                                         <td>{{ $banner->title }}</td>
                                         <td>
                                             @if (isset($banner->image))
-                                                <img src="{{ Storage::url($banner->image) }}"
+                                                <img src="{{ asset('files/' . $banner->image) }}"
                                                     alt="Banner Image" width="80"
-                                                    onerror="this.src='https://via.placeholder.com/80?text=No+Image'">
+                                                    onerror="this.style.display='none'">
                                             @endif
                                         </td>
                                         <td>
